@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">weatherUtil</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="config">Configurations</string>
+    <string name="add">Add city</string>
+    <string name="city">cidade</string>
+    <string name="geoposition">geoposition</string>
+    <string name="cityList">city list</string>
+    <string name="confirm">Confirm</string>
+
+    <string name="cities_prompt">Choose a city</string>
+    <string-array name="cities_array">
+        <item>Recife</item>
+        <item>London</item>
+        <item>Ushuaia</item>
+        <item>Sidney</item>
+        <item>Beijing</item>
+        <item>Tokyo</item>
+        <item>Helsinki</item>
+        <item>Maputo</item>
+        <item>Lhasa</item>
+    </string-array>
+
+</resources>
